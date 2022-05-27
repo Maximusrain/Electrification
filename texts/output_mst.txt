@@ -1,0 +1,14 @@
+City: Kraków
+City: Katowice
+ Connected to: Katowice Kraków 73.4
+City: Bytom
+City: Chorzów
+ Connected to: Chorzów Bytom 7.2
+ Connected to: Chorzów Katowice 10.5
+City: Zabrze
+City: Gliwice
+ Connected to: Gliwice Zabrze 8.4
+City: Tychy
+ Connected to: Tychy Gliwice 6.3
+
+The total length in Km to connect every city is: 105.8
